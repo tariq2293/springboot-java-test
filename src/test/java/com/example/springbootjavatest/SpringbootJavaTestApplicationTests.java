@@ -11,7 +11,7 @@ class SpringbootJavaTestApplicationTests {
     void contextLoads() {
         int a = 10;
         int b = 20; 
-        assertEquals(30, a+b);
+        assertEquals(32, a+b);
     }
 
 }
